@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MqttClientSouthboundSimulatedvalues": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
